@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmapreducelib.a  CMakeFiles/mapreducelib.dir/mapreduce.cc.o CMakeFiles/mapreducelib.dir/mapreduce_impl.cc.o
+/usr/bin/ranlib libmapreducelib.a

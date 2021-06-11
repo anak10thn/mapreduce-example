@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cloud-dev/ibnu/project4-oncampus-master/test/main.cc
+iostream
+-
+cstdlib
+-
+unistd.h
+-
+mapreduce.h
+-
+
+external/include/mapreduce.h
+string
+-
+
